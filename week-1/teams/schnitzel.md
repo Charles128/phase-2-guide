@@ -5,7 +5,7 @@ Team Schnitzel
 
 Members:
 * Charles
-* Paul
+* Paul C
 * Carter
 * Dan
 
